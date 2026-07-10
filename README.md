@@ -1,4 +1,4 @@
-## 📚 Projects
+## Projects
 
 ### 1. Supervised Learning (Classification) – MAGIC Gamma Telescope
 
