@@ -6,7 +6,7 @@ Special thanks to, [@kying18](https://github.com/kying18).
 
 **Description**
 
-A binary classification project built using the **MAGIC Gamma Telescope** dataset. The objective is to classify whether an observed event is a **Gamma** particle (signal) or a **Hadron** particle (background) using supervised machine learning techniques. The dataset contains **19,020 instances** with **10 numerical features** and is commonly used for binary classification tasks. :contentReference[oaicite:0]{index=0}
+A binary classification project built using the **MAGIC Gamma Telescope** dataset. The objective is to classify whether an observed event is a **Gamma** particle (signal) or a **Hadron** particle (background) using supervised machine learning techniques.
 
 **Dataset**
 
