@@ -1,5 +1,7 @@
 ## Projects
 
+Special thanks to, [@kying18](https://github.com/kying18).
+
 ### 1. Supervised Learning (Classification) – MAGIC Gamma Telescope
 
 **Description**
