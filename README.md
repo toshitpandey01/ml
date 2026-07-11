@@ -14,7 +14,7 @@ A binary classification project built using the MAGIC Gamma Telescope dataset. T
 
 ### Models & Results
 
-Five classification models were trained and evaluated on the same train/test split. Accuracy and per-class metrics are summarized below.
+Five classification models were trained and evaluated on the same train/valid/test split. Accuracy and per-class metrics are summarized below.
 
 | Model | Accuracy | Precision (avg) | Recall (avg) | F1-score (avg) |
 |---|---|---|---|---|
