@@ -30,13 +30,13 @@ The **Neural Network** achieved the best overall performance, closely followed b
 ![KNN Results](images/kNN.jpg)
 
 #### Logistic Regression
-![Logistic Regression Results](images/Logistic_Regression Results.jpg)
+![Logistic Regression Results](images/Logistic Regression Results.jpg)
 
 #### Naive Bayes
-![Naive Bayes Results](images/Naive_Bayes Results.jpg)
+![Naive Bayes Results](images/Naive Bayes Results.jpg)
 
 #### Support Vector Machine (SVM)
 ![SVM Results](images/SVM Results.jpg)
 
 #### Neural Network
-![Neural Network Results](images/Neural_Network Results.jpg)
+![Neural Network Results](images/Neural Network Results.jpg)
