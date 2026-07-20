@@ -54,9 +54,9 @@ A regression project built using the Seoul Bike Sharing dataset. The objective i
 ### Models & Results
 Two regression models were trained and evaluated on the same train/validation/test split (60/20/20). R² and MSE are summarized below.
 
-(images/01.jpg)
-(images/02.jpeg)
-(images/04.jpg)
+![*](images/01.jpg)
+![*](images/02.jpeg)
+![*](images/04.jpg)
 
 | Model | Features Used | R² Score | MSE |
 |---|---|---|---|
