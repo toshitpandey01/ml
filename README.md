@@ -40,3 +40,28 @@ The **Neural Network** achieved the best overall performance, closely followed b
 
 #### Neural Network
 ![Neural Network Results](images/Neural%20Network%20Results.jpg)
+
+## 2. Supervised Learning (Regression) – Seoul Bike Sharing Demand
+
+### Description
+A regression project built using the Seoul Bike Sharing dataset. The objective is to predict the number of bikes rented at noon based on weather conditions such as temperature, humidity, dew point, solar radiation, rainfall, and snowfall.
+
+### Dataset
+- **Name:** Seoul Bike Sharing Demand Dataset
+- **Source:** UCI Machine Learning Repository
+- **Link:** https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand
+
+### Models & Results
+Two regression models were trained and evaluated on the same train/validation/test split (60/20/20). R² and MSE are summarized below.
+
+| Model | Features Used | R² Score | MSE |
+|---|---|---|---|
+| Linear Regression | Temperature only | 0.26 | — |
+| Linear Regression | All 6 weather features | 0.49 | 83,268 |
+| Neural Network (Keras, ReLU) | All 6 weather features | — | 113,675 |
+
+### Key Insight
+Despite tuning the neural network's hidden layers, learning rate, and epochs, Linear Regression outperformed it on the held-out test set. On a small, low-dimensional dataset, the simpler model generalized better — a reminder that model complexity should be matched to dataset size rather than assumed to improve performance.
+
+### Tech Stack
+Python, pandas, NumPy, scikit-learn, TensorFlow/Keras, Matplotlib
